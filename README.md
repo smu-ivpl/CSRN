@@ -52,6 +52,30 @@ pip install -r requirements.txt
 - torchvision 0.13.1+cu113
 
 
+### Dataset preparation
 
+We used RAF-DB, FER2013, AFEW, and SFEW as training and testing.
+
+> please download dataset from the official website.
+
+### Trained model
+
+trained model is available in ./weights
+
+
+## Training
+
+Run in ./CODE
+
+~~~
+python csrn_main.py
+~~~
+
+
+## Testing
+
+~~~
+python test_csrn.py
+~~~
 
 
