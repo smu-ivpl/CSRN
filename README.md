@@ -1,6 +1,6 @@
 # Efficient Few-shot Learning based on Channel Selective Relation Network for Facial Expression Recognition (CSRN)
 
-Chae-Lin Kim, Ji-Woo Kang and Byung-Gyu Kim
+Chae-Lin Kim, Ji-Woo Kang, and Byung-Gyu Kim
 Intelligent Vision Processing Lab. (IVPL), Sookmyung Women's University, Seoul, Republic of Korea
 
 <hr>
@@ -59,8 +59,12 @@ We used RAF-DB, FER2013, AFEW, and SFEW as training and testing.
 > 1. Download
 > 
 > please download dataset from the official website.
+>
+> 2. Generate data
 > 
-> 2. Arrange data
+> prepare cropped eye and lip patch images
+>    
+> 3. Arrange data
 > 
 > place original data and cropped eye and lip images on the specific ordering:
 
