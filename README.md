@@ -3,6 +3,27 @@
 Chae-Lin Kim, Ji-Woo Kang and Byung-Gyu Kim
 Intelligent Vision Processing Lab. (IVPL), Sookmyung Women's University, Seoul, Republic of Korea
 
+<hr>
+
+This repository is the official PyTorch implementation of the paper submitted in Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI-24).
+
+
+<hr>
+
+### Summary of paper
+
+Abstract
+> Few-shot learning-based facial expression recognition (FER) aims to achieve maximum efficiency from a few numbers of data. Therefore, it is significant to
+> utilize the given training dataset efficiently. Furthermore, it is essential to derive useful information from the organic movement of facial parts such as
+> the eyes, nose, and mouth in usual FER. However, the generalization performance of the previous few-shot FERs still has a large variation. To address this
+> problem, we propose a Channel Selective Relation Network with channel selection module and spatial data construction to extract more suitable facial
+> features. Our method helps the network to prevent irrelevant information and focus on essential information by comparing the original sample features with
+> the averaged feature. Also, our network learns dominant facial expression features in local patches, such as the eyes and lips. We verify that the optimal
+> feature selected for facial images and additional spatial information can improve the generalization performance. We set 4-way 4-shot for training and 3
+> way 3-shot for inferencing unseen facial emotion classes. Compared to the existing method, the average performances on RAFDB, FER2013, SFEW, and AFEW
+> datasets are increased by 3.5%, 3.68%, 5.58%, and 2.31% accuracy, respectively.
+
+
 
 
 ### Installation
