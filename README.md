@@ -56,7 +56,20 @@ pip install -r requirements.txt
 
 We used RAF-DB, FER2013, AFEW, and SFEW as training and testing.
 
+> 1. Download
 > please download dataset from the official website.
+> 2. Arrange data
+> place original data and cropped eye and lip images on the specific ordering:
+
+ex) RAFDB
+|--dataset
+|    |--RAFDB
+|         |--images
+|         |--images_eye
+|         |--images_lip
+|         |--test
+|         |--train
+              
 
 ### Trained model
 
