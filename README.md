@@ -61,6 +61,7 @@ We used RAF-DB, FER2013, AFEW, and SFEW as training and testing.
 > 2. Arrange data
 > place original data and cropped eye and lip images on the specific ordering:
 
+```bash
 ex) RAFDB
 |--dataset
 |    |--RAFDB
@@ -69,7 +70,7 @@ ex) RAFDB
 |         |--images_lip
 |         |--test
 |         |--train
-              
+```             
 
 ### Trained model
 
