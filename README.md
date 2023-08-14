@@ -24,7 +24,18 @@ Abstract
 > datasets are increased by 3.5%, 3.68%, 5.58%, and 2.31% accuracy, respectively.
 
 
+Network Architecture
 
+![model_network](https://github.com/smu-ivpl/CSRN/assets/53431568/be7e786f-2a17-41e4-b8ee-c0158663d4e6)
+
+
+Experimental Results
+
+![실험결과](https://github.com/smu-ivpl/CSRN/assets/53431568/8baa79c3-c639-4a74-bd1d-f6e02f9d8414)
+
+<hr>
+
+## Getting Started
 
 ### Installation
 
